@@ -7,8 +7,8 @@ import pandas as pd
 from playwright.sync_api import sync_playwright
 
 # Constants
-EMAIL = "gkrishnadas10@gmail.com" # user id
-PASSWORD = "4364428Slc" # user password
+EMAIL = "#############" # user id
+PASSWORD = "##############" # user password
 SLOWMOTION = 100 # login speed
 TIMEOUT = 750 # page interaction speed
 
