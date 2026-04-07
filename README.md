@@ -35,8 +35,7 @@ ________________________________________
 🔹 How to Run
 
 1.	Clone the project
-git clone https://github.com/YOUR-USERNAME/skedda-user-tagging.git
-cd skedda-user-tagging
+https://github.com/GanesanKrishnadas/Automation-Project-.git
 2.	Install requirements
 pip install pandas playwright
 playwright install
